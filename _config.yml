@@ -3,18 +3,18 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Pranjal Patni
-title: Software Engineer
-email: pranjal.patni09@gmail.com
-website: https://pranjalpatni.github.io
+name: Isha Khurana
+title: Quantitative Analyst
+email: ishakhurana1996@gmail.com
+website: https://ishakhurana17.github.io
 # Social links
-twitter_username: pranjalpatni09
-github_username:  pranjalpatni
+# twitter_username: pranjalpatni09
+github_username:  ishakhurana17
 # dribbble_username: <>
 # facebook_username: <>
 # flickr_username: <>
-instagram_username: pranjal.patni
-linkedin_username: prpatni
+# instagram_username: pranjal.patni
+linkedin_username: ishakhurana17
 # pinterest_username: <>
 #youtube_username: <>
 # googleplus_username: <>
@@ -23,9 +23,9 @@ linkedin_username: prpatni
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! I am Pranjal and I am a software engineer working in New York City. I love animals and writing code.
+  Hi! I am <mark>Isha Khurana</mark>. I am a graduate student, pursuing STEM certified Masters program in Computational Finance from Rochester Institute of Technology, NY.
   
-  My favorite languages are <mark>Hindi</mark> and <mark>Java</mark>
+  I hold professional experience in project management, financial modeling and data analysis. Currently, I am seeking a full time opportunity, starting December 2020, for quantitative or analytical role.
 
 # Projects Section
 # projects_title: Projects
@@ -40,8 +40,12 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   My hobbies include:
+   - Reading
+   - Photography
+   - Dancing
    - Traveling
-   - Playing badminton, soccer and Fifa!
+   - Playing tennis
+   - Swimming
 
 # Footer
 footer_show_references: true
