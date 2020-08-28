@@ -1,0 +1,57 @@
+# Site
+repository: sproogen/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Pranjal Patni
+title: Software Engineer
+email: pranjal.patni09@gmail.com
+website: https://pranjalpatni.github.io
+# Social links
+twitter_username: pranjalpatni09
+github_username:  pranjalpatni
+# dribbble_username: <>
+# facebook_username: <>
+# flickr_username: <>
+instagram_username: pranjal.patni
+linkedin_username: prpatni
+# pinterest_username: <>
+#youtube_username: <>
+# googleplus_username: <>
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi! I am Pranjal and I am a software engineer working in New York City. I love animals and writing code.
+  
+  My favorite languages are <mark>Hindi</mark> and <mark>Java</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  My hobbies include:
+   - Traveling
+   - Playing badminton, soccer and Fifa!
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
