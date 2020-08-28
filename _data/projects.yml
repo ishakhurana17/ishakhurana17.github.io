@@ -1,8 +1,79 @@
-- layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+- layout: left
+  name: Covenant Violation Finder
+  link:
+  github:
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Language/Tools: Python & MATLAB
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    - Extracted 10-Q and 10-K filings of US firms from SEC EDGAR database, conducted textual analysis to identify filings with possible covenant violation to generate descriptive statistics and correlations using WRDS dataset.
+    - Examine the determinants of covenant violations.
+
+- layout: left
+  name: Fiscal Stress Score
+  link:
+  github:
+  quote: >
+    Language/Tools: Python
+  description: | # this will include new lines to allow paragraphs
+    - Imitating 100% the computation of fiscal stress score developed by Office of New York State Comptroller (OSC) to provide stress scores earlier than them for each town in New York state.
+    - The score is calculated based on financial indicators/ratios and used for various trend analysis using Exploratory Data Analysis for consultancy services.
+
+- layout: left
+  name: Wait time modeling for trafzc at US-Canada Border
+  link:
+  github:
+  quote: >
+    Language/Tools: Python
+  description: | # this will include new lines to allow paragraphs
+    - Examine the effect of date/time and weather on the wait time that a traveler faces while crossing US-Canada border using data from Government of Canada for wait time and US government data for weather. Exploratory Data Analysis is used for numeric and visual analysis to compute the regression results.
+    - Built a 55% accurate logistic regression to predict wait time at specific hours or weather type using scikit-learn package, to help travelers analyze/plan their trip in advance.
+
+- layout: left
+  name: Default Probability in Marketplace Loans
+  link:
+  github:
+  quote: >
+    Language/Tools: Python
+  description: | # this will include new lines to allow paragraphs
+    - Conducted Exploratory Data Analysis and created a presentable descriptive analytics report on the LendingClub data using pandas profiling package in Python.
+    - Built an 73% accurate logistic regression model using scikit-learn package to predict loan default probability in Marketplace Loans based on factors explaining default like loan purpose, annual income, current housing situation, interest rate, credit history, indebtedness and interest rate.
+
+- layout: left
+  name: Predicting Stock Market
+  link:
+  github:
+  quote: >
+    Language/Tools: Python
+  description: | # this will include new lines to allow paragraphs
+    - Performed sentiment analysis, using Natural Language Processing (NLP) in Python (via NLTK library), on posts and comments from Reddit in order to assess their influence on stock market movements.
+    - Compared the posts and market trends from daily to hourly to precision of second's changes.
+    
+- layout: left
+  name: Factors pertaining to determinants of Audit fees
+  link:
+  github:
+  quote: >
+    Language/Tools: Python
+  description: | # this will include new lines to allow paragraphs
+    - Exploratory Data Analysis (EDA) and Regression analysis with 60% accuracy on predicting what characteristics/factors are best in explaining the variation in Audit Fees of a company, individually and all together using Compustat & Audit Analytics database.
+    - Amount of fees paid to external auditors being of great importance to the stakeholders, this model can help companies to assess fees in advance.
+
+- layout: left
+  name: Pricing Derivatives
+  link:
+  github:
+  quote: >
+    Language/Tools: R & MATLAB
+  description: | # this will include new lines to allow paragraphs
+    - Used Monte-Carlo & Black Scholes methods for pricing options in complex situations where the payoff is path dependent (e.g. Lookback options, Asian options and Spread options) and options where the payoff is dependent on a basket of underlying assets (rather than just a single asset).
+    - Developed various functions to calculate price of various derivatives with almost 100% accuracy.
+
+- layout: left
+  name: Portfolio Optimization
+  link:
+  github:
+  quote: >
+    Language/Tools: R & SAS
+  description: | # this will include new lines to allow paragraphs
+    - Identified optimal asset allocation for a portfolio by applying Mean-Variance portfolio optimization and Monte Carlo simulation techniques. Thereby, maximizing the total return of the portfolio at the given risk by 50%.
+    - Used ggplot2 in R to plot mean-variance for the feasible set of portfolios to visualize the highest sharpe ratio.
