@@ -24,6 +24,10 @@
                 {%- include education.html -%}
             {%- endif -%}
 
+            {%- if site.data.skills.size > 0 -%}
+                {%- include skills.html -%}
+            {%- endif -%}
+
             {%- include more.html -%}
 
         </div>
