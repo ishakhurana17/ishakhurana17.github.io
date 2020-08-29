@@ -59,6 +59,9 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 # education_title: Education #(Use this to override about education section title)
 
+# Skills Section
+# skills_title: Skills
+
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
