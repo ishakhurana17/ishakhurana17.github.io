@@ -30,7 +30,7 @@ linkedin_username: ishakhurana17
 # Additional icon links
 additional_links:
 - title: My Blogs
-  icon: fa-blog
+  icon: fa-blogger-b
   url: https://techopaths.com/author/ishakhurana17/
 
   # - title: another link
