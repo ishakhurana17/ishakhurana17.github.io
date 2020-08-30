@@ -30,8 +30,8 @@ linkedin_username: ishakhurana17
 # Additional icon links
 additional_links:
 - title: My Blogs
-  icon: https://techopaths.com/wp-content/uploads/2020/04/favicon-3.png
-  url: https://techopaths.com/author/aditilangar/
+  icon: fa-blog
+  url: https://techopaths.com/author/ishakhurana17/
 
   # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
