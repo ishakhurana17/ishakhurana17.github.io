@@ -16,7 +16,7 @@
   quote: >
     Language/Tools: Python
   description: | # this will include new lines to allow paragraphs
-    - Imitating 100% the computation of fiscal stress score developed by Office of New York State Comptroller (OSC) to provide stress scores earlier than them for each town in New York state.
+    - Imitated the computation model, by 100%, for calculating fiscal stress score developed by Office of New York State Comptroller (OSC) to provide stress scores for each town in New York state.
     - The score is calculated based on financial indicators/ratios and used for various trend analysis using Exploratory Data Analysis for consultancy services.
 
 - layout: left
@@ -37,7 +37,7 @@
     Language/Tools: Python
   description: | # this will include new lines to allow paragraphs
     - Conducted Exploratory Data Analysis and created a presentable descriptive analytics report on the LendingClub data using pandas profiling package in Python.
-    - Built an 73% accurate logistic regression model using scikit-learn package to predict loan default probability in Marketplace Loans based on factors explaining default like loan purpose, annual income, current housing situation, interest rate, credit history, indebtedness and interest rate.
+    - Built a 73% accurate logistic regression model using scikit-learn package to predict loan default probability in Marketplace Loans based on factors explaining default like loan purpose, annual income, current housing situation, interest rate, credit history, indebtedness and interest rate.
 
 - layout: left
   name: Predicting Stock Market
