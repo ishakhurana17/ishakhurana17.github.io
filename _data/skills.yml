@@ -12,7 +12,7 @@
   github:
   quote:
   description: | # this will include new lines to allow paragraphs
-    Python, R Programming, Tableau, MATLAB, SPSS, Qualtrics, Excel, Jupyter Notebook, R Studio, SQL, Power BI, Oracle
+    Python, R Programming, Tableau, MATLAB, SPSS, Qualtrics, Excel, Jupyter Notebook, R Studio, SQL, Power BI, Oracle, Git
 
 - layout: left
   name: Financial Databases
