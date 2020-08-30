@@ -1,0 +1,19 @@
+- layout: left
+  name: Certified Management Accountant (CMA)
+  link:
+  github:
+  quote: >
+   Institute of Management Accountant | IMA, US
+  description: | # this will include new lines to allow paragraphs
+    - Credential Number: 72921
+    - Proficient in financial reporting, planning, performance, control and decision making.
+    - Cleared both the papers/parts of CMA certification exam in April 2017 (in first attempt & same test window)
+
+- layout: left
+  name: Bloomberg Market Concepts (BMC)
+  link:
+  github:
+  quote: >
+   Bloomberg LP
+  description: | # this will include new lines to allow paragraphs
+    - Analysing Economic Indicators, Currencies, Fixed Income, Equities and Portfolio Management.

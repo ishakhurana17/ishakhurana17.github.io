@@ -32,6 +32,14 @@
         {%- include skills.html -%}
       {%- endif -%}
 
+      {%- if site.data.awards.size > 0 -%}
+        {%- include awards.html -%}
+      {%- endif -%}
+
+      {%- if site.data.certifications.size > 0 -%}
+        {%- include certifications.html -%}
+      {%- endif -%}
+
       {%- if site.more_content -%}
         {%- include more.html -%}
       {%- endif -%}
